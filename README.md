@@ -1,34 +1,41 @@
-# Python-programs
-Uploading my Python codes while learning.
+# Python-programs ✅
 
-## ✅ Assignments
+A small collection of Python assignment solutions created while learning programming.
 
-- **Assignment1**
-  - `program1.py` — solution for Assignment 1.
+## 💡 About
+This repository contains short, self-contained Python scripts organized by assignment. Each file demonstrates a focused concept (input/output, data types, control flow, functions, etc.) suitable for beginners.
 
-- **Assignment2** *(Completed)*
-  - `que1.py` — **Display value, type, and memory address of a variable.**
-    - **Topic:** Variables, types, built-in functions (`type`, `id`).
-    - **Question:** `Write a python program to display : value, type, memory address for a variable using appropriate built-in functions.`
-  - `que2.py` — **Explain difference in identity for immutable vs mutable objects using `id()`.**
-    - **Topic:** Mutability and object identity (`id`).
-    - **Question:** `What is the difference between : a = 10 b = 10 and a = [10] b = [10] Explain using id().`
-  - `que6.py` — **Simple calculator for two numbers (add, sub, mul, div).**
-    - **Topic:** Input/output and arithmetic operations.
-    - **Question:** `Write a program that accepts two numbers from the user and prints their: 1] Addition 2] Subtraction 3] Multiplication 4] Division.`
-  - `que9.py` — **Greet user and show next-year age.**
-    - **Topic:** Input/output, string formatting, arithmetic.
-    - **Question:** `Write a program to take user's name and age and display: Hello <name>, you will turn <age+1> next year.`
+## 🗂️ Structure
+- `Assignment1/`
+  - `program1.py` — example solution for Assignment 1
+- `Assignment2/`
+  - `que1.py` — display value, type, and memory address of a variable
+  - `que2.py` — show identity behavior for immutables vs mutables using `id()`
+  - `que6.py` — simple calculator (add, subtract, multiply, divide)
+  - `que9.py` — greet user and show next-year age
+- `Assignment3/`
+  - `que1.py`, `que6.py` — additional exercises
+- `Assignment4/` — (empty / to be added)
 
+> Descriptions are brief; open the individual files for full problem statements and implementation details.
 
-## 🔧 How to run
+## 🔧 Requirements
+- Python 3.8+ recommended
 
-Run a script with Python, for example:
+## ▶️ How to run
+Run any script with Python from the repository root. Examples:
 
 ```
-python Assignment2\que1.py
+python Assignment2\que1.py   # Windows
+python Assignment2/que1.py   # macOS / Linux
 ```
+
+## 🤝 Contributing
+Feel free to add more solutions or improve existing ones. Open an issue or submit a pull request with your changes.
+
+## 📌 Notes
+Keep the README updated when adding new assignments or examples.
 
 ---
 
-*Notes: Update this README if you add more solutions or more details per question.*
+*Created for learning and practice. No personal contact information is included.*
