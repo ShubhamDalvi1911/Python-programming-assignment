@@ -1,0 +1,18 @@
+# Write a lambda function using reduce() which accepts a list of numbers and returns the minimum element.
+from functools import reduce
+Min = lambda No1, No2 : No2 if (No1 > No2) else No1
+
+def main():
+    nums = list()
+    no = int(input("Enter how many numbers you want to store : "))
+    for i in range(no):
+        print("Enter", i+1 ," number : ", end='')
+        nums.append(int(input()))
+
+    result = reduce(Min,nums)
+
+    print("Minimum element is ",result)
+
+
+if __name__ == "__main__":
+    main()
