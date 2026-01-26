@@ -30,6 +30,12 @@ This repository contains short, self-contained Python scripts organized by assig
 | Assignment 13 | ✅ Completed | 5/5 |
 | Assignment 14 | ✅ Completed | 10/10 |
 | Assignment 15 | ✅ Completed | 10/10 |
+| Assignment 16 | ✅ Completed | 10/10 |
+| Assignment 17 | ✅ Completed | 10/10 |
+| Assignment 18 | ✅ Completed | 5/5 |
+| Assignment 19 | ✅ Completed | 5/5 |
+| Assignment 20 | ✅ Completed | 5/5 |
+| Assignment 21 | ✅ Completed | 4/4 |
 
 ## 🔧 Requirements
 - Python 3.8+ recommended
