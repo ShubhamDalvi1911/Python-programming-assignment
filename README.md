@@ -49,6 +49,7 @@ This repository contains short, self-contained Python scripts organized by assig
 | Assignment 41 | ✅ Completed | 3/3 |
 | Assignment 42 | ✅ Completed | 3/3 |
 | Assignment 43 | ✅ Completed | 1/1 |
+| Assignment 44 | ✅ Completed | 1/1 |
 
 ## 🔧 Requirements
 - Python 3.8+ recommended
