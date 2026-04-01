@@ -55,6 +55,7 @@ This repository contains short, self-contained Python scripts organized by assig
 | Assignment 49 | ✅ Completed | 5/5 |
 | Assignment 50 | ✅ Completed |  /  |
 | Assignment 51 | ✅ Completed | 3/3 |
+| Assignment 52 | ✅ Completed | 1/1 |
 
 ## 🔧 Requirements
 - Python 3.8+ recommended
